@@ -2,6 +2,7 @@
 
 - 🌱 Estudando JavaScript
 - 😄 Pronomes: Ela/Dela
+- :computer: Engenharia  de  Software
 
 <div align="center">
   <a href="https://github.com/melorayssa">
