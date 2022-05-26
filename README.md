@@ -1,8 +1,9 @@
 ## Olá!
 
-- 🌱 Estudando JavaScript
+- 📚 Estudando Programação
+- 💻 JavaScript
 - 😄 Pronomes: Ela/Dela
-- :computer: Engenharia  de  Software
+- 💢 Movida a Lofi
 
 <div align="center">
   <a href="https://github.com/melorayssa">
