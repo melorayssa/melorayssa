@@ -1,7 +1,7 @@
 ## Olá!
 
 - 📚 Estudando Programação
-- 💻 JavaScript
+- 💻 JavaScript e Python
 - 😄 Pronomes: Ela/Dela
 - 💢 Movida a Lofi
 
