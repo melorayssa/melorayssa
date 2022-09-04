@@ -30,9 +30,9 @@
   <a href="https://www.linkedin.com/in/rayssa-melo-5448a0203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <!--<a href="https://twitter.com/chuuviruus" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
   
-  
+  ![Snake animation](https://github.com/melorayssa/melorayssa/blob/output/github-contribution-grid-snake.svg)
   
 </div> 
 
-![Snake animation](https://github.com/melorayssa/melorayssa/blob/output/github-contribution-grid-snake.svg)
+
  -->
