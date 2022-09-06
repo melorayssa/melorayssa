@@ -33,5 +33,4 @@
 
  
 
- ![snake gif](https://github.com/melorayssa/melorayssa/blob/output/github-contribution-grid-snake.svg)
 
