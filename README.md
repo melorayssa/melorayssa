@@ -23,7 +23,7 @@
 
 
 ```diff
-< Rayssa 'chuu vírus' ⭐
+< Rayssa 'chuu vírus' 'miojo' ⭐
 
 > estudante de análise e desenvolvimento de sistemas
 > conversa sobre tech e aleatoriedades;
