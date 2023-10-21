@@ -25,12 +25,14 @@
 ```diff
 < Rayssa 'chuu vírus' 'miojo' ⭐
 
+
 > estudante de análise e desenvolvimento de sistemas
 > conversa sobre tech e aleatoriedades;
 > gosto de ouvir lofi para estudar.
 
 ! ‍criadora de conteúdo de programação e tecnologia
 ! apaixonada por front-end
+! Procurando vaga como Desenvolvedor Web
 ```
 ## 🛠 **My Tools:**
 
