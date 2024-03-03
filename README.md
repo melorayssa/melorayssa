@@ -31,7 +31,7 @@
 > gosto de ouvir lofi para estudar.
 
 ! ‍criadora de conteúdo de programação e tecnologia
-! apaixonada por front-end
+! apaixonada por programação
 ! Procurando vaga como Desenvolvedor Web
 ```
 ## 🛠 **My Tools:**
