@@ -32,7 +32,6 @@
 
 ! ‍criadora de conteúdo de programação e tecnologia
 ! apaixonada por programação
-! Procurando vaga como Desenvolvedor Web
 ```
 ## 🛠 **My Tools:**
 
