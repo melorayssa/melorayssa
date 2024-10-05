@@ -6,7 +6,7 @@
   <a target="_blank" href="https://twitter.com/DevMiojo">
     <img src="https://img.shields.io/twitter/follow/DevMiojo?color=1DA1F2&logo=twitter&style=for-the-badge&label=twitter"/>
   </a>
-  <a target="_blank" href="https://www.instagram.com/rayssa.dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a target="_blank" href="https://www.instagram.com/miojocodes"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>  
   <a target="_blank" href="https://www.linkedin.com/in/melo-rayssa">
     <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white&color=004182"/>
